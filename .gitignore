@@ -1,0 +1,7 @@
+env/
+env/*
+.vs/
+.vscode/*
+.idea/*
+__pychache__/*
+db.sqlite3
